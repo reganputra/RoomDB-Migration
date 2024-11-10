@@ -77,6 +77,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    /// tess
+
     private fun getStudentAndUniversity() {
         val adapter = StudentAndUniversityAdapter()
         binding.rvStudent.adapter = adapter
